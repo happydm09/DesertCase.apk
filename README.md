@@ -5,3 +5,6 @@ Desert Case는 Syetem UI의 이스터에그를 연결 시켜주는 역할을 하
 작동이 안됩니다...(관상용인 걸로...)
 
 이 앱은 '앱인벤터'로 만들어졌으며 아래 파일에서 apk 및 aia파일을 다운 받을 수 있습니다.
+
+[DesertCase.apk.zip](https://github.com/happydm09/DesertCase.apk/files/9505263/DesertCase.apk.zip)
+[DesertCase.aia.zip](https://github.com/happydm09/DesertCase.apk/files/9505267/DesertCase.aia.zip)
